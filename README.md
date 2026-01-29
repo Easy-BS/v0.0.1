@@ -9,9 +9,6 @@ This project explores how Large Language Models (LLMs) and AI-Agent systems can 
 
 • Result interpretation
 
-📄 Related Paper
-
-(TBD)
 
 🚀 Key Features
 
@@ -51,6 +48,10 @@ docs/	Architecture diagrams and figures
 ⚠️ Project Status
 
 This project is under active academic development. Interfaces may change as research progresses.
+
+📄 Related Paper
+
+(TBD)
 
 📚 Citation
 
