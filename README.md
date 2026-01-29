@@ -5,11 +5,7 @@ This project explores how Large Language Models (LLMs) and AI-Agent systems can 
 
 • Geometry creation
 
-• Envelope definition (TBD)
-
-• HVAC configuration (TBD)
-
-• Simulation setup (TBD)
+• Simulation setup 
 
 • Result interpretation
 
