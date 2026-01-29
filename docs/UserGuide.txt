@@ -1,1 +1,4 @@
+# UserGuide.txt
+
 This document will guide users in utilizing the AI-Agent for EnergyPlus within the framework for building geometric prototyping.
+
