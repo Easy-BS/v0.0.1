@@ -39,10 +39,15 @@ cd easy-bs-v0.0.1
 pip install -r requirements.txt
 
 📁 Project Structure
+
 Folder	Description
+
 easybs/	Core agent framework
+
 examples/	Sample building simulation cases
+
 docs/	Architecture diagrams and figures
+
 
 📊 Demonstration
 (TBD)
