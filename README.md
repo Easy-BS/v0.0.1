@@ -20,9 +20,13 @@ This project explores how Large Language Models (LLMs) and AI-Agent systems can 
 🚀 Key Features
 
 ✅ Natural-language-driven building model generation
+
 ✅ Multi-agent architecture for modular simulation workflows
+
 ✅ Integration with EnergyPlus simulation engine
+
 ✅ Automated error correction and workflow validation
+
 ✅ Designed for early-stage design and non-expert users
 
 🏗️ System Architecture
