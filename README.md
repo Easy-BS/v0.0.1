@@ -43,8 +43,10 @@ Folder	Description
 easybs/	Core agent framework
 examples/	Sample building simulation cases
 docs/	Architecture diagrams and figures
+
 📊 Demonstration
 (TBD)
+
 ⚠️ Project Status
 
 This project is under active academic development. Interfaces may change as research progresses.
