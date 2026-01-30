@@ -83,5 +83,5 @@ IMPORTANT:
 Typical use:
 - Batch runs or controlled experiments focused on hourly indoor temperature reporting.
 
-
-*The rules for multi-region naming follow the same principles as single-region naming.
+------------------------------------------------------------
+*The rules for multi-zone file naming follow the same principles as single-zone naming.
