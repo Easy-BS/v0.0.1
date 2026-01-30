@@ -87,19 +87,4 @@ IMPORTANT:
 Typical use:
 - Batch runs or controlled experiments focused on hourly indoor temperature reporting.
 
-============================================================
-## Quick comparison
-============================================================
 
-+------------------------+------------------------------+---------------------------+--------------------------+
-| File                   | Main difference              | Rotation handling         | Typical purpose          |
-+------------------------+------------------------------+---------------------------+--------------------------+
-| geom_bui_E+.idf         | Base model export            | No vertex rotation;       | Standard EnergyPlus run  |
-|                        | (geometry + windows + HVAC)  | uses BUILDING.North_Axis  |                          |
-+------------------------+------------------------------+---------------------------+--------------------------+
-| geom_bui_SketchUp.idf   | Same model, but rotated      | Vertex coordinates rotated| Visualization / CAD-like |
-|                        | in coordinate space          | in XY                     | alignment                |
-+------------------------+------------------------------+---------------------------+--------------------------+
-| geom_bui_E+_modified.idf| Outputs + run settings reset | Depends on input IDF      | Experiments with clean   |
-|                        | (hourly zone temperature)    | (usually unrotated)       | hourly outputs           |
-+------------------------+------------------------------+---------------------------+--------------------------+
