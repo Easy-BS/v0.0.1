@@ -1,6 +1,6 @@
 # 📦 
 
-# Easy-BS (Easy Building Simulation)
+# 
 LLM/agent-assisted EnergyPlus model generation workflow.
 
 ============================================================
