@@ -2,7 +2,7 @@
 """
 Created on Mon Sep 22 14:08:39 2025
 
-@author: user
+@author: Xiguan Liang @SKKU
 """
 
 # building_data_extractor.py
@@ -152,3 +152,4 @@ def extract_building_geometry(state: SimulationState) -> SimulationState:
             return {"errors": [f"Extractor failed (LLM + fallback): {e.__class__.__name__}: {e}"]}
         state["parsed_building_data"] = _norm_single(fb)
         return state
+
