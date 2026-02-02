@@ -1,0 +1,30 @@
+Program Version,EnergyPlus, Version 8.9.0-40101eaafd, YMD=2026.01.23 18:45,
+   ** Warning ** Timestep: Requested number (1) is less than the suggested minimum of 4.
+   **   ~~~   ** Please see entry for Timestep in Input/Output Reference for discussion of considerations.
+   ** Warning ** CheckEnvironmentSpecifications: SimulationControl specified doing design day simulations, but no design environments specified.
+   **   ~~~   ** ...No design environment results produced. For these results, add appropriate SizingPeriod:* objects for your simulation.
+   ** Warning ** ManageSizing: For a zone sizing run, there must be at least 1 Sizing:Zone input object. SimulationControl Zone Sizing option ignored.
+   ** Warning ** ManageSizing: For a plant sizing run, there must be at least 1 Sizing:Plant object input. SimulationControl Plant Sizing option ignored.
+   ** Warning ** GetHTSurfaceData: Surfaces with interface to Ground found but no "Ground Temperatures" were input.
+   **   ~~~   ** Found first in surface=BLOCK TESTBLOCK STOREY 0 FLOOR 0001
+   **   ~~~   ** Defaults, constant throughout the year of (18.0) will be used.
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ************* Simulation Error Summary *************
+   ** Severe  ** Orphaned ZoneHVAC object found.  This was object never referenced in the input, and was not used.
+   **   ~~~   **  -- Object type: ZoneHVAC:IdealLoadsAirSystem
+   **   ~~~   **  -- Object name: ILS_Block TestBlock Storey 0
+   ** Severe  ** Orphaned ZoneHVAC object found.  This was object never referenced in the input, and was not used.
+   **   ~~~   **  -- Object type: ZoneHVAC:IdealLoadsAirSystem
+   **   ~~~   **  -- Object name: ILS_Block TestBlock Storey 1
+   ************* There are 2 unused objects in input.
+   ************* Use Output:Diagnostics,DisplayUnusedObjects; to see them.
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 2 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 5 Warning; 2 Severe Errors; Elapsed Time=00hr 00min  0.97sec
