@@ -30,10 +30,6 @@ The Easy-BS (Easy-Building-Simulation) framework consists of AI agents that coll
   <img src="docs/Picture4.svg" width="700">
 </p>
 
-<p align="center">
-  <img src="docs/Demo_1.0.1.gif" width="700">
-</p>
-
 📁 Project Structure
 
 Folder	Description
@@ -46,7 +42,10 @@ docs/	Architecture diagrams and figures
 
 
 📊 Demonstration
-(TBD)
+
+<p align="center">
+  <img src="docs/Demo_1.0.1.gif" width="700">
+</p>
 
 ⚠️ Project Status
 
