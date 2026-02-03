@@ -8,7 +8,9 @@ This project explores how Large Language Models (LLMs) and AI-Agent systems can 
 • Simulation setup 
 
 • Result interpretation
-
+<p align="center">
+  <img src="docs/Picture1_.svg" width="700">
+</p>
 
 🚀 Key Features
 
