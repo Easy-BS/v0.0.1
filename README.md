@@ -31,7 +31,7 @@ The Easy-BS (Easy-Building-Simulation) framework consists of AI agents that coll
 </p>
 
 <p align="center">
-  <img src="docs/Demo_1.0.gif" width="700">
+  <img src="docs/Demo_1.0.1.gif" width="700">
 </p>
 
 📁 Project Structure
